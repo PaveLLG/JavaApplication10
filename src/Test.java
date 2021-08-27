@@ -16,6 +16,6 @@ public class Test {
 
     @Override
     public String toString() {
-        return "Test{" + "x=" + x + '}';
+        return "Test " + "x = " + x ;
     }
 }
